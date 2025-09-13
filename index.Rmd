@@ -1,0 +1,44 @@
+---
+title: "Do Hyun David Park"
+image: "unnamed.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/dohyun-park-b3077535a/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/dpark67.bsky.social"
+  - label: GitHub
+    url: "https://github.com/doprk/doprk.github.io"
+  - label: Email
+    url: "mailto:davidhyun22@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Welcome to my page! I am a full-time MPH student at the Johns Hopkins Bloomberg 
+School of Public Health, concentrating in Epidemiology and Biostatistics. 
+My interests center on understanding how factors beyond the clinic 
+such as social determinants of health and environmental exposures shape cardiac 
+and pulmonary outcomes. I am also drawn to exploring how technology, 
+including artificial intelligence and mobile health applications, can be 
+leveraged to improve chronic disease management. Ultimately, I hope to bridge 
+my clinical experience with population-level research to develop scalable, 
+community-based solutions that advance equitable patient outcomes.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+MPH in Epidemiology and Biostatistics | 2025 - 
+
+**The University of California, Los Angeles** | Los Angeles, CA
+
+B.S. in Molecular, Cellular, & Developmental Biology | September 2016 - 
+September 2020
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
