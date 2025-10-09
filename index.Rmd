@@ -3,28 +3,42 @@ title: "Do Hyun David Park"
 image: "unnamed.jpg"
 links:
   - label: LinkedIn
+    image: "linkedin.jpg"
     url: "https://www.linkedin.com/in/dohyun-park-b3077535a/"
   - label: Bluesky
+    image: "bluesky.png"
     url: "https://bsky.app/profile/dpark67.bsky.social"
   - label: GitHub
+    image: "github.png"
     url: "https://github.com/doprk/doprk.github.io"
   - label: Email
+    image: "email.png"
     url: "mailto:davidhyun22@gmail.com"
+  - label: Download my complete CV (PDF)
+    url: "Do_Hyun_David_Park_CV.pdf"
+
 output:
   postcards::trestles
 ---
  
-## Bio
+## Welcome to my page!
 
-Welcome to my page! I am a full-time MPH student at the Johns Hopkins Bloomberg 
-School of Public Health, concentrating in Epidemiology and Biostatistics. 
-My interests center on understanding how factors beyond the clinic 
-such as social determinants of health and environmental exposures shape cardiac 
-and pulmonary outcomes. I am also drawn to exploring how technology, 
-including artificial intelligence and mobile health applications, can be 
-leveraged to improve chronic disease management. Ultimately, I hope to bridge 
-my clinical experience with population-level research to develop scalable, 
-community-based solutions that advance equitable patient outcomes.
+I am a full-time MPH student at the Johns Hopkins Bloomberg School of Public 
+Health, concentrating in Epidemiology and Biostatistics. My research 
+interests lie at the intersection of preventive cardiology, pulmonary health, 
+and population-based data analysis, with a focus on how social determinants of 
+health, environmental exposures, and behavioral risk factors influence 
+cardiovascular and respiratory outcomes across diverse populations. I am also 
+interested in how emerging technologies—including artificial intelligence, 
+mobile health applications, and digital biomarkers—can be leveraged to enhance 
+chronic disease management and preventive care delivery. Building on my 
+background in clinical experiences, quality improvement, and community health,
+I aim to bridge the gap between individual patient care and population-level 
+interventions, ultimately contributing to scalable, data-driven, and 
+community-centered strategies that advance equitable health outcomes 
+in cardiopulmonary medicine.
+
+
 
 ## Education
 
@@ -32,13 +46,32 @@ community-based solutions that advance equitable patient outcomes.
 
 MPH in Epidemiology and Biostatistics | 2025 - 
 
-**The University of California, Los Angeles** | Los Angeles, CA
+**University of California, Los Angeles** | Los Angeles, CA
 
 B.S. in Molecular, Cellular, & Developmental Biology | September 2016 - 
 September 2020
 
-## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+## Research Experience
+
+**Lazazzera Lab** | Microbiology, Immunology & Molecular Genetics UCLA
+Undergraduate Investigator | January 2018 - June 2020
+
+**Xing Lab** | Molecular, Cellular & Developmental Biology UCLA
+Undergraduate Investigator | June 2017 - January 2018
+
+
+
+## Hobbies
+<br>
+You can find me either cooking or taking film photos! But I also like to
+stay activity by playing soccer or basketball! 
+  
+![First: Soccer 2025; Middle: Sedona,Az 2021; Bottom: NYC 2025](collage.jpg){width=90%}
+
+
+
+
+
+
