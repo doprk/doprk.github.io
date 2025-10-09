@@ -10,7 +10,7 @@ links:
     url: "https://bsky.app/profile/dpark67.bsky.social"
   - label: GitHub
     image: "github.png"
-    url: "https://github.com/doprk/doprk.github.io"
+    url: "https://github.com/doprk/"
   - label: Email
     image: "email.png"
     url: "mailto:davidhyun22@gmail.com"
@@ -26,18 +26,16 @@ output:
 I am a full-time MPH student at the Johns Hopkins Bloomberg School of Public 
 Health, concentrating in Epidemiology and Biostatistics. My research 
 interests lie at the intersection of preventive cardiology, pulmonary health, 
-and population-based data analysis, with a focus on how social determinants of 
+and data analysis. Particularly, I am interested in how social determinants of 
 health, environmental exposures, and behavioral risk factors influence 
-cardiovascular and respiratory outcomes across diverse populations. I am also 
-interested in how emerging technologies—including artificial intelligence, 
-mobile health applications, and digital biomarkers—can be leveraged to enhance 
-chronic disease management and preventive care delivery. Building on my 
-background in clinical experiences, quality improvement, and community health,
-I aim to bridge the gap between individual patient care and population-level 
-interventions, ultimately contributing to scalable, data-driven, and 
-community-centered strategies that advance equitable health outcomes 
-in cardiopulmonary medicine.
-
+clinical outcomes across diverse populations. I am also 
+interested in how emerging technologies, such as artificial intelligence, 
+mobile health applications, and digital biomarkers, can be leveraged to 
+enhance chronic disease management and preventive care delivery. Building on my 
+clinical background, I aim to bridge the gap between 
+individual patient care and population-level interventions, 
+ultimately contributing to scalable, data-driven, and community-centered 
+strategies that advance equitable health outcomes  in cardiopulmonary medicine.
 
 
 ## Education
