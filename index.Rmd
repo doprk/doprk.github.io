@@ -21,20 +21,22 @@ output:
   postcards::trestles
 ---
  
-## Welcome to my page!
+## Bio!
+Growing up, the bill was scarier than the illness. My family immigrated without 
+health insurance, so regular medical care was out of reach. When my dad had a 
+heart attack, I couldn't stop wondering. If we'd had insurance, would this have 
+happen at all? That question shaped my path toward interest in preventive 
+cardiology and immigrant health. 
 
-I am a full-time MPH student at the Johns Hopkins Bloomberg School of Public 
-Health, concentrating in Epidemiology and Biostatistics. My current research
-interests are preventive cardiology and pulmonary health. Specifically, 
-I am interested  in how social determinants of health, emerging biomarkers, 
-and behavioral risk factors influence cardiovascular outcomes. For pulmonary, 
-I am interested in how environmental exposures affect COPD, asthma, and
-lung cancer. Given our changing times, I am also intrigued by how 
-emerging technologies, such as artificial intelligence or mobile health 
-applications, can be leveraged to enhance chronic disease management.
-I hope to become a researcher that bridges the gap between individual patient 
-care and population-level research that advances equitable health outcomes 
-in cardiopulmonary medicine. 
+I am a part-time MPH student at the Johns Hopkins School of Public Health, 
+concentrating in Epidemiology and Biostatistic. I hope to become a clinician 
+and clinical epidemiologist who uses population-level research to improve 
+cardiovascular outcomes for particularly underserved communities. I’m 
+particularly interested in hypertension management, novel biomarkers, and 
+community outreach in the context of cardiology. 
+
+Please feel free to download my complete CV to see my research experience,
+clinical experience, and public health experience. 
  
 ## Education
 
@@ -47,21 +49,15 @@ MPH in Epidemiology and Biostatistics | 2025 -
 B.S. in Molecular, Cellular, & Developmental Biology | September 2016 - 
 September 2020
 
-
-## Research Experience
-
-**Lazazzera Lab** | Microbiology, Immunology & Molecular Genetics UCLA
-Undergraduate Investigator | January 2018 - June 2020
-
-**Xing Lab** | Molecular, Cellular & Developmental Biology UCLA
-Undergraduate Investigator | June 2017 - January 2018
-
-
 ## Hobbies
-<br>
-You can find me either cooking or taking film photos! But I also like to
-stay active by playing soccer or basketball! 
-  
+<br> I think the greatest joy in life is to offer others hospitality. 
+I like to cook a warm meal that melts the coldest of hearts, like 
+Anton Ego from Ratatouille. Or, I like to take photos, whether on film or 
+digital, capturing the memories of the moment.
+
+As a cardiac-focused enthusiast, I like to stay active by lifting weights, 
+playing soccer, or playing basketball!
+
 ![First: Soccer 2025; Middle: Sedona,Az 2021; Bottom: NYC 2025](collage.jpg){width=90%}
 
 
